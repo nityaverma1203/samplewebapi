@@ -1,0 +1,11 @@
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\bin\Release\netcoreapp2.0\samplewebapi.deps.json
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\bin\Release\netcoreapp2.0\samplewebapi.runtimeconfig.json
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\bin\Release\netcoreapp2.0\samplewebapi.runtimeconfig.dev.json
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\bin\Release\netcoreapp2.0\samplewebapi.dll
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\bin\Release\netcoreapp2.0\samplewebapi.pdb
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\obj\Release\netcoreapp2.0\samplewebapi.csprojResolveAssemblyReference.cache
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\obj\Release\netcoreapp2.0\samplewebapi.csproj.CoreCompileInputs.cache
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\obj\Release\netcoreapp2.0\samplewebapi.AssemblyInfoInputs.cache
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\obj\Release\netcoreapp2.0\samplewebapi.AssemblyInfo.cs
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\obj\Release\netcoreapp2.0\samplewebapi.dll
+C:\Users\Baibhavv\Desktop\samplewebapi\samplewebapi\obj\Release\netcoreapp2.0\samplewebapi.pdb

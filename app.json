@@ -1,0 +1,17 @@
+{
+  "name": "samplewebapi",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/nityaverma1203/samplewebapi.git"
+    }
+  ]
+}
